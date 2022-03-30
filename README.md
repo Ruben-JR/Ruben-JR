@@ -1,8 +1,7 @@
 <h3> Hi there :wave: </h3>
 
 <p>My name is Ruben de Pina, from Cap Verd (:cape_verde:), student of systems engineering and informatics.<br> 
-I want to be a Full stack developer, so i study and create every day projects to code and pratices my knowledge to make me better developer.<br> 
-I love apply my knowledge to solve problems and create amazing products.</p>
+I want to be a Full stack developer, so i study and create every day projects to code and pratices my knowledge to make me better developer. I love apply my knowledge to solve problems and create amazing products.</p>
 <hr>
 
 <h3> My Skills :open_book: </h3>  
