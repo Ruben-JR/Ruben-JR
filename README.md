@@ -12,20 +12,20 @@ I want to be a Full stack developer, so i study and create every day projects to
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Ruben-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
   <a href="https://www.php.net/" target="_blank"><img align="center" alt="Ruben-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a> 
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="Ruben-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Ruben-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Ruben-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> 
 </div></p>
 
 <h4>Framework</h4>
 <p><div style="display: inline_block">
   <a href="https://angular.io/" target="_blank"><img align="center" alt="Ruben-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Ruben-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img align="center" alt="Ruben-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img align="center" alt="Ruben-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> 
 </div></p>
 
 <h4>Data bases</h4>
 <p><div style="display: inline_block">
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ruben-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ruben-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
 </div></p>
 
 <h4>Tools</h4>
