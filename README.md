@@ -30,6 +30,12 @@ I want to be a Full stack developer, so i study and create every day projects to
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
 </div></p>
 
+<h4>Automation</h4>
+<p><div style="display: inline_block">
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Ruben-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img align="center" alt="Ruben-terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" /></a>
+</div></p>
+
 <h4>Tools</h4>
 <p><div style="display: inline_block">
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Ruben-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
