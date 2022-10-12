@@ -18,6 +18,7 @@ I want to be a Full stack developer, so i study and create every day projects to
 <h4>Framework</h4>
 <p><div style="display: inline_block">
   <a href="https://angular.io/" target="_blank"><img align="center" alt="Ruben-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Ruben-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
   <a href="https://material.angular.io/" target="_blank"><img align="center" alt="Ruben-angularMaterial" height="30" width="30" src="https://user-images.githubusercontent.com/75695011/184117409-e7eaba98-4c37-40dc-a52f-f1918d06cbc5.png" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Ruben-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img align="center" alt="Ruben-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> 
