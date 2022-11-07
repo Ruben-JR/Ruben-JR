@@ -41,6 +41,7 @@ I want to be a Full stack developer, so i study and create every day projects to
 <p><div style="display: inline_block">
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Ruben-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://github.com/" target="_blank"><img align="center" alt="Ruben-gitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
+  <a href="https://gitlab.com/" target="_blank"><img align="center" alt="Ruben-gitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></a>
 </div></p>
 <hr> 
 
