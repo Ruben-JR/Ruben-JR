@@ -9,7 +9,7 @@ I want to be a Full stack developer, so i study and create every day projects to
 <p><div style="display: inline_block">
   <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Ruben-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://archlinux.org/" target="_blank"><img align="center" alt="Ruben-ArchLinux" height="30" width="30" src="https://user-images.githubusercontent.com/75695011/212056939-86e973d0-b6de-4baa-9489-b0120766b32c.png" /></a>
-  <a href="https://endeavouros.com/" target="_blank"><img align="center" alt="Ruben-Endeavouros" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+  <a href="https://endeavouros.com/" target="_blank"><img align="center" alt="Ruben-Endeavouros" height="30" width="28" src="https://user-images.githubusercontent.com/75695011/212057567-e74113e7-3a0f-4127-bdf2-3994510789f5.png" /></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="center" alt="Ruben-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a> 
 </div></p>
 
