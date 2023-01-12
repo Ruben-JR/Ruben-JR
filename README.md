@@ -5,6 +5,14 @@ I want to be a Full stack developer, so i study and create every day projects to
 <hr>
 
 <h3> My Skills :open_book: </h3>  
+<h4>Operating Systems</h4>
+<p><div style="display: inline_block">
+  <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Ruben-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
+  <a href="https://archlinux.org/" target="_blank"><img align="center" alt="Ruben-ArchLinux" height="30" width="40" src="" /></a>
+  <a href="https://endeavouros.com/" target="_blank"><img align="center" alt="Ruben-Endeavouros" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="center" alt="Ruben-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a> 
+</div></p>
+
 <h4>Development</h4>
 <p><div style="display: inline_block">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Ruben-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
@@ -26,7 +34,7 @@ I want to be a Full stack developer, so i study and create every day projects to
    <a href="https://www.odoo.com/" target="_blank"><img align="center" alt="Ruben-odoo" height="30" width="60" src="https://user-images.githubusercontent.com/75695011/184119597-9fbb632f-7220-4363-b012-e148930daa2f.png" /></a>  
 </div></p>
 
-<h4>Data bases</h4>
+<h4>Data Bases</h4>
 <p><div style="display: inline_block">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ruben-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
