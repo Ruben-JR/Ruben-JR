@@ -20,7 +20,8 @@ I want to be a Full stack developer, so i study and create every day projects to
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Ruben-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
   <a href="https://www.php.net/" target="_blank"><img align="center" alt="Ruben-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a> 
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="Ruben-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Ruben-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Ruben-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Ruben-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 </div></p>
 
 <h4>Framework</h4>
@@ -30,7 +31,6 @@ I want to be a Full stack developer, so i study and create every day projects to
   <a href="https://material.angular.io/" target="_blank"><img align="center" alt="Ruben-angularMaterial" height="30" width="30" src="https://user-images.githubusercontent.com/75695011/184117409-e7eaba98-4c37-40dc-a52f-f1918d06cbc5.png" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Ruben-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img align="center" alt="Ruben-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> 
-  <a href="https://quarkus.io/" target="_blank"><img align="center" alt="Ruben-quarkus" height="30" width="30" src="https://user-images.githubusercontent.com/75695011/200284428-99995bf1-4aa7-4a88-b6c2-5a0cac9f9b3e.png" /></a>
    <a href="https://www.odoo.com/" target="_blank"><img align="center" alt="Ruben-odoo" height="30" width="60" src="https://user-images.githubusercontent.com/75695011/184119597-9fbb632f-7220-4363-b012-e148930daa2f.png" /></a>  
 </div></p>
 
@@ -38,12 +38,12 @@ I want to be a Full stack developer, so i study and create every day projects to
 <p><div style="display: inline_block">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ruben-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Ruben-mongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
 </div></p>
 
 <h4>Automation</h4>
 <p><div style="display: inline_block">
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Ruben-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img align="center" alt="Ruben-terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" /></a>
 </div></p>
 
 <h4>Tools</h4>
