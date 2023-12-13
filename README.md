@@ -21,7 +21,7 @@ I want to be a Full stack developer, so i study and create every day projects to
   <a href="https://www.php.net/" target="_blank"><img align="center" alt="Ruben-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a> 
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="Ruben-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Ruben-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Ruben-NodeJS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Ruben-NodeJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 </div></p>
 
 <h4>Framework</h4>
