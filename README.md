@@ -9,7 +9,7 @@
 
   "fields_of_interest": ["Backend", "Frontend", "DevOps", "Cloud"]
 
-  "hobbies": ["Photography", "Traveling", "Apartment Gardening"]
+  "hobbies": ["Gym", "Work", "Cars", "Traveling"]
 }
 ```
 
