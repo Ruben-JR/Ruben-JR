@@ -1,15 +1,20 @@
-name: "Ruben de Pina"
-where_i_am_from: :cape verde:
-located_in: "Somewhere in the Atlantic Ocean"
-current_job: "Full Stack developer"
-company: "The Wellbeing doctors"
+<!-- ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+```json
+{
+  "name": "Ruben de Pina"
+  "where_i_am_from": "cape verde"
+  "located_in": "Somewhere in the Atlantic Ocean"
+  "current_job": "Full Stack developer"
+  "company": "The Wellbeing doctors"
 
-fields_of_interest: ["Backend", "Frontend", "DevOps", "Cloud"]
+  "fields_of_interest": ["Backend", "Frontend", "DevOps", "Cloud"]
 
-hobbies: ["Photography", "Traveling", "Apartment Gardening"]
+  "hobbies": ["Photography", "Traveling", "Apartment Gardening"]
+}
+```
 
-<h3> Skills :open_book: </h3>  
-<h4>Operating Systems</h4>
+<h4> "Skills" :open_book: </h4>  
+<h5>Operating Systems</h5>
 <p><div style="display: inline_block">
   <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Ruben-Ubuntu" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
   <a href="https://archlinux.org/" target="_blank"><img align="center" alt="Ruben-ArchLinux" height="20" width="20" src="https://user-images.githubusercontent.com/75695011/212056939-86e973d0-b6de-4baa-9489-b0120766b32c.png" /></a>
@@ -17,7 +22,7 @@ hobbies: ["Photography", "Traveling", "Apartment Gardening"]
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="center" alt="Ruben-windows" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a> 
 </div></p>
 
-<h4>Development</h4>
+<h5>Development</h5>
 <p><div style="display: inline_block">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Ruben-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Ruben-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
@@ -28,7 +33,7 @@ hobbies: ["Photography", "Traveling", "Apartment Gardening"]
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Ruben-NodeJS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 </div></p>
 
-<h4>Framework</h4>
+<h5>Framework</h5>
 <p><div style="display: inline_block">
   <a href="https://angular.io/" target="_blank"><img align="center" alt="Ruben-angular" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Ruben-react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
@@ -38,32 +43,21 @@ hobbies: ["Photography", "Traveling", "Apartment Gardening"]
    <a href="https://www.odoo.com/" target="_blank"><img align="center" alt="Ruben-odoo" height="20" width="50" src="https://user-images.githubusercontent.com/75695011/184119597-9fbb632f-7220-4363-b012-e148930daa2f.png" /></a>  
 </div></p>
 
-<h4>Data Bases</h4>
+<h5>Data Bases</h5>
 <p><div style="display: inline_block">
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ruben-Mysql" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Ruben-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="Ruben-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
 </div></p>
 
-<h4>Automation</h4>
+<h5>Automation</h5>
 <p><div style="display: inline_block">
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Ruben-Docker" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
 </div></p>
 
-<h4>Tools</h4>
+<h5>Tools</h5>
 <p><div style="display: inline_block">
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Ruben-git" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://github.com/" target="_blank"><img align="center" alt="Ruben-gitHub" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
   <a href="https://gitlab.com/" target="_blank"><img align="center" alt="Ruben-gitLab" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></a>
 </div></p>
-<hr> 
-
-<h3> ContactMe :point_down: </h3>
-
-<p><div>
- <a href="https://www.instagram.com/ruben.jr__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@BLINK#6465" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rubenpina758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruben-pina-3851b4235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div></p>
-<hr>
