@@ -13,10 +13,10 @@
 
   "Skills": [
     "Operating Systems": ["Ubuntu", "ArchLinux", "Endeavouros", "Windows"],
-    "Development": ["HTML", "CSS", "JavaScript", "Php", "Java", "Python", "NodeJs"],
+    "Development": ["HTML", "CSS", "JavaScript", "Php", "Java", "Python", "NodeJs", "Flutter"],
     "Framework": ["Angular", "React", "Angular Material", "Bootstrap", "Flask", "Odoo", "Strapi"],
     "DataBases": ["MySql", "PostgreSQL", "MongoDB"],
-    "Automation": ["Docker", "GitHub Actions"]
+    "Automation": ["Docker", "GitHub Actions"],
     "Tools": ["Git", "GitHub", "GitLab"]
   ]
 }
