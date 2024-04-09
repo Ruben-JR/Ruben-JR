@@ -17,7 +17,8 @@
     "Framework": ["Angular", "React", "Angular Material", "Bootstrap", "Flask", "Odoo", "Strapi"],
     "DataBases": ["MySql", "PostgreSQL", "MongoDB"],
     "Automation": ["Docker", "GitHub Actions"],
-    "Tools": ["Git", "GitHub", "GitLab"]
+    "Tools": ["Git", "GitHub", "GitLab"],
+    "Web-server": ["Nginx"]
   ]
 }
 ```
