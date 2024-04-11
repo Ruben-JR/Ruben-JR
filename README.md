@@ -7,7 +7,7 @@
   "current_job": "Full Stack developer"
   "company": "The Wellbeing doctors"
 
-  "fields_of_interest": ["Backend", "Frontend", "DevOps", "Cloud"]
+  "fields_of_interest": ["Full Stack Developer", "DevOps", "Cloud"]
 
   "hobbies": ["Gym", "Work", "Cars", "Traveling"]
 
