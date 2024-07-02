@@ -14,7 +14,7 @@
   "Skills": [
     "Operating Systems": ["Ubuntu", "ArchLinux", "Endeavouros", "Windows"],
     "Development": ["HTML", "CSS", "JavaScript", "Php", "Java", "Python", "NodeJs", "Flutter"],
-    "Framework": ["Angular", "React", "Flask", "Odoo", "Strapi", "Tailwindcss "Angular Material", "Bootstrap"],
+    "Framework": ["Angular", "React", "Flask", "Odoo", "Strapi", "Tailwindcss", "Angular Material", "Bootstrap"],
     "DataBases": ["MySql", "PostgreSQL", "MongoDB"],
     "Automation": ["Docker", "GitHub Actions"],
     "Tools": ["Git", "GitHub", "GitLab"],
