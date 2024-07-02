@@ -19,6 +19,7 @@
     "Tools": ["Git", "GitHub", "GitLab"],
     "Web-server": ["Nginx"],
     "Authentication": ["Keycloak"],
+    "Cloud": ["Vultr", "Vercel"],
     "Framework": [
       "Frontend": ["Angular", "React"],
       "Backend": ["Flask", "Odoo", "Strapi"],
