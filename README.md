@@ -18,10 +18,10 @@
     "Automation": ["Docker", "GitHub Actions"],
     "Tools": ["Git", "GitHub", "GitLab"],
     "Web-server": ["Nginx"],
-    "Authentication": ["Keycloak"],
+    "Authentication": ["Keycloak", "Next-auth.js"],
     "Cloud": ["Vultr", "Vercel"],
     "Framework": [
-      "Frontend": ["Angular", "React"],
+      "Frontend": ["Angular", "React", "Next.js"],
       "Backend": ["Flask", "Odoo", "Strapi"],
       "CSS": ["Tailwindcss", "Angular Material", "Bootstrap"]
     ]
