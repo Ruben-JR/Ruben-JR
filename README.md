@@ -2,23 +2,19 @@
 ```json
 {
   "name": "Ruben de Pina"
-  "where_i_am_from": "cape verde"
-  "located_in": "Somewhere in the Atlantic Ocean"
-  "current_job": "Full Stack developer"
+  "Job": "Full Stack developer"
   "company": "The Wellbeing doctors"
 
-  "fields_of_interest": ["Full Stack Developer", "DevOps", "Cloud"]
-
-  "hobbies": ["Gym", "Work", "Cars", "Traveling"]
+  "fields_of_interest": ["Full Stack Developer", "DevOps", "Cloud", "Automations"]
 
   "Skills": [
     "Operating Systems": ["Ubuntu", "ArchLinux", "Endeavouros", "Windows"],
-    "Development": ["HTML", "CSS", "JavaScript", "Php", "Java", "Python", "NodeJs", "Flutter"],
+    "Development": ["HTML", "CSS", "JavaScript", "Python", "NodeJs", "Php", "Java"],
     "DataBases": ["MySql", "PostgreSQL", "MongoDB"],
     "Automation": ["Docker", "GitHub Actions"],
     "Tools": ["Git", "GitHub", "GitLab"],
     "Web-server": ["Nginx"],
-    "Authentication": ["Keycloak", "Next-auth.js"],
+    "Authentication": ["Keycloak", "AuthJs"],
     "Cloud": ["Vultr", "Vercel"],
     "Framework": [
       "Frontend": ["Angular", "React", "Next.js"],
